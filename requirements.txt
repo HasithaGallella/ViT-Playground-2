@@ -1,0 +1,29 @@
+# CORE LIBRARIES
+wandb
+pandas
+scikit-learn
+tensorboard
+gdown
+numpy
+pyyaml
+
+# V-JEPA
+opencv-python
+submitit
+braceexpand
+webdataset
+decord
+einops
+beartype
+
+# CrossJEPA
+omegaconf
+h5py
+tqdm
+timm
+plyfile
+tabulate
+plotly
+kaleido
+psutil
+
