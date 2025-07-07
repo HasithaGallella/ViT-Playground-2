@@ -67,8 +67,8 @@ create_conda_env() {
         echo "✓ Conda environment 'vit1' already exists - skipping creation"
         return 0
     else
-        echo "Creating conda environment 'vit1' with Python 3.9..."
-        conda create -n vit1 python=3.9 pip -y
+        echo "Creating conda environment 'vit1' with Python 3.10..."
+        conda create -n vit1 python=3.10 pip -y
         echo "✓ Conda environment 'vit1' created successfully"
     fi
 }
